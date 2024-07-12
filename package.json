@@ -1,5 +1,6 @@
 {
   "name": "langchain-nextjs-template",
+  "packageManager": "pnpm@7.5.1",
   "version": "0.0.0",
   "private": true,
   "scripts": {
